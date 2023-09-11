@@ -2,7 +2,7 @@
 ## 😍 Um guia para a mulher mais linda de todo universo 
 
 Este guia é para te ajudar a entender o que é o PHP e para que ele é comumente aplicado 🚀
-
+<img src="images/o_que_e_php_unsplash.jpg" alt="Exemplo imagem">
 ## O que é o PHP?
 PHP (um acrônimo recursivo para "PHP: Hypertext Preprocessor", originalmente Personal Home Page) é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações
 presentes e atuantes no lado do servidor, capazes de gerar conteúdo
@@ -33,6 +33,7 @@ e depois
 sudo apt install -y apache2
 ```
 No navegador, digite **localhost**. Se tudo estiver certo, você deve visualizar a seguinte tela:
+<img src="images/apache.png" alt="Exemplo imagem">
 
 ### Instalando o PHP 
 Execute os seguintes comandos:
@@ -61,6 +62,7 @@ Escreva como abaixo, no arquivo:
 phpinfo();
 ```
 No Browswer, digite **localhos/info.php**. Você deve ver a seguinte tela:
+<img src="images/php_tela.png" alt="Exemplo imagem">
 
 🎯 Se deu tudo certo até aqui... PODEMOS COMEÇAR
 Antes de seguir, já disse que vc é linda? 😘
@@ -108,7 +110,7 @@ comentário*/ - comenta um bloco.
 ```
 Podemos comentar nosso código para facilitar o entendimento do nosso script. No php, podemos comentar das seguintes formas:
 
-o exemplo de **variáveis e comentários** [aqui](subir arquivo)
+o exemplo de **variáveis e comentários** [aqui](https://github.com/LourenaOhara/php/blob/main/basic/var_com.php)
 
 ### var_dump
 O var_dump é muito utilizado para imprimir variáveis. Ele imprime o conteúdo e o tipo da variável
