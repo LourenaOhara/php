@@ -61,7 +61,7 @@ Escreva como abaixo, no arquivo:
 <?php
 phpinfo();
 ```
-No Browswer, digite **localhos/info.php**. Você deve ver a seguinte tela:
+No Browswer, digite **localhost/info.php**. Você deve ver a seguinte tela:
 <img src="images/php_tela.png" alt="Exemplo imagem">
 
 🎯 Se deu tudo certo até aqui... PODEMOS COMEÇAR
